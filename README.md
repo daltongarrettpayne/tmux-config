@@ -5,6 +5,25 @@ Optional upgrade: tmux-which-key plugin with Alt+Space menu.
 
 ---
 
+## Install tmux
+
+**macOS**
+```sh
+brew install tmux
+```
+
+**Ubuntu / Debian**
+```sh
+sudo apt install tmux
+```
+
+**Fedora / RHEL**
+```sh
+sudo dnf install tmux
+```
+
+---
+
 ## Setup
 
 ### 1. Back up any existing config
